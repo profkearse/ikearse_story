@@ -1,2 +1,3 @@
 Once upon a time there was a robot named Bob.
-Bob was a wobbler.
+Bob was a wobbler. He would wobble day and night!
+This was his favorite thing to do.
